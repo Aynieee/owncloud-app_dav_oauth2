@@ -1,6 +1,12 @@
 # WebDAV OAuth 2.0
 Place this app in **owncloud/apps/**
 
+## Using the app
+
+For accessing the file `demo.txt` on the ownCloud instance at http://www.example.org/owncloud you should use the following URL:
+    
+    http://www.example.org/owncloud/remote.php/dav-oauth2/demo.txt
+
 ## Building the app
 
 The app can be built by using the provided Makefile by running:
