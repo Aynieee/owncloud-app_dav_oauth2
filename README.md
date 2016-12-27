@@ -1,4 +1,4 @@
-# 🔐 WebDAV OAuth 2.0
+# WebDAV OAuth 2.0
 Place this app in **owncloud/apps/**
 
 ## Using the app
